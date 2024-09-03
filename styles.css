@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+/* Basic styling for the webpage */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Styling for the heading */
+h1 {
+    color: #2a7ae2;
+}
+
+/* Styling for the paragraph */
+p {
+    margin-bottom: 20px;
+}
+
+/* Styling for the ordered list */
+ol {
+    margin-bottom: 20px;
+}
+
+/* Styling for the unordered list */
+ul {
+    margin-bottom: 20px;
+}
+
+/* Emphasis styling for strong and italic text */
+strong {
+    color: #f44336;
+}
+
+em {
+    color: #4caf50;
+}
